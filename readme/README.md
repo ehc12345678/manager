@@ -59,7 +59,7 @@ process sometimes.
 A large part of my mission as a manager is to help you to develop and
 meet your own goals as well as provide feedback and coaching to help
 you develop. We will have regular interactions through the normal
-course of the day while working on projects.  THe team and company
+course of the day while working on projects.  The team and company
 culture typically dictates the means, but I tend to have lots of slack
 and zoom communication. It is also important to have consistent,
 regularly scheduled one-on-ones.
@@ -140,8 +140,8 @@ on middleware libraries.  I have been a technical lead, a people
 manager, and a mix of both at the same time. Being technical will help
 me to understand the context of the work you do and to help with
 talking through code and architectural issues.  I can do Pull Request
-reviews and even pitch with code, as the team needs.  I also find
-great satisfaction the helping the individuals of all levels grow and
+reviews and even pitch in with code, as the team needs.  I also find
+great satisfaction in helping individuals of all levels grow and
 develop their talents to meet their goals as well as building diverse
 teams that do great work, but also learn and have fun while they do
 it.
