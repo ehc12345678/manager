@@ -2,16 +2,17 @@
 
 This is a README for what it is like to work for Erik. It covers my
 approach for managing the team to meet its goals and to manage you as
-an individual to meet your goals.
+an individual to meet your goals. 
 
 ## Collaboration
 
 My main goal is to develop a team that collaborates to produce the
-best solutions.  We will start a sprint together and finish together,
-pitching in whatever way is needed to help one another (that could
-mean stepping up to QA a feature or working outside your area of
+best solutions.  The team will start a sprint together and finish 
+together, and you will help by pitching in whatever way is needed
+(that could mean stepping up to QA a feature or working outside your area of
 expertise to lend a hand). The goal is to build a team that trusts and
-cares for each other.
+cares for each other.  I will be there to remove obstacles, facilitate
+meetings, and to provide context.
 
 ## Process
 
@@ -67,10 +68,13 @@ regularly scheduled one-on-ones.
 ### One-on-ones
 
 We will meet for 30-45 minutes each week. How we spend this time is up
-to us: you have a say in what you want to get out of the discussion.
+to us: you tell me what you want to get out of the discussion.  I will
+bring my feedback and cross team communication. My feedback aims
+to celebrate success and point out areas of improvement with specific
+examples from the time period since our last one-on-one. 
 
 Our first one-on-one will be a way of getting to know each other. It
-ia helpful for me to know from the start what is important to you,
+is helpful for me to know from the start what is important to you,
 career goals, things that motivate you, and get on your nerves.
 
 Future one-on-ones will be less about status and more about what you
@@ -84,12 +88,12 @@ We will share a running communication document similar to this:
 September 24, 2022
 * Follow-up on previous action items
   * Cloud Team confirms capacity to help with AWS permission issues 
+* You
+  * Recommendations for a good class to take for OIDC
 * Erik
   * How do we move forward on the security initiative?
   * OKR update
   * Company goals update
-* You
-  * Recommendations for a good class to take for OIDC
 * Open questions / action items
   * Check out the PluralSight path on OAuth
   * Schedule meeting to create a Story Map (include QA, UX, and PM)
@@ -140,7 +144,8 @@ on middleware libraries.  I have been a technical lead, a people
 manager, and a mix of both at the same time. Being technical will help
 me to understand the context of the work you do and to help with
 talking through code and architectural issues.  I can do Pull Request
-reviews and even pitch in with code, as the team needs.  I also find
+reviews and even pitch in with code, as the team needs (but only as they
+want so that I do not step on toes or micromanage).  I also find
 great satisfaction in helping individuals of all levels grow and
 develop their talents to meet their goals as well as building diverse
 teams that do great work, but also learn and have fun while they do
